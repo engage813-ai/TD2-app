@@ -1,0 +1,71 @@
+{
+  "target": "Complication",
+  "numeric": {
+    "Age": {
+      "min": 30.0,
+      "max": 89.0,
+      "mean": 59.859
+    },
+    "BMI": {
+      "min": 9.5,
+      "max": 45.1,
+      "mean": 27.977314285714286
+    },
+    "HbA1c": {
+      "min": 0.8,
+      "max": 12.6,
+      "mean": 7.51812857142857
+    },
+    "Fasting  Glucose": {
+      "min": -48.6,
+      "max": 275.6,
+      "mean": 129.64988571428572
+    },
+    "LDL": {
+      "min": 1.2,
+      "max": 243.0,
+      "mean": 120.31097142857143
+    },
+    "HDL": {
+      "min": 3.2,
+      "max": 86.7,
+      "mean": 45.2105
+    },
+    "Triglycerides": {
+      "min": -20.2,
+      "max": 330.3,
+      "mean": 159.30734285714286
+    },
+    "Systolic BP": {
+      "min": 110.0,
+      "max": 179.0,
+      "mean": 144.357
+    },
+    "Diastolic BP": {
+      "min": 70.0,
+      "max": 109.0,
+      "mean": 89.46971428571429
+    },
+    "Family History": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.4064285714285714
+    },
+    "Duration Since Diagnosis": {
+      "min": 1.0,
+      "max": 24.0,
+      "mean": 12.578714285714286
+    }
+  },
+  "categorical": {
+    "Sex": [
+      "Female",
+      "Male"
+    ],
+    "Diet Quality": [
+      "Average",
+      "Good",
+      "Poor"
+    ]
+  }
+}
